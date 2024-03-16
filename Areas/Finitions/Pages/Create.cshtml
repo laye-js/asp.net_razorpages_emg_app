@@ -1,0 +1,42 @@
+﻿@page
+@model EMG.Areas.Finitions.Pages.CreateModel
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+ 
+@{
+    ViewData["Title"] = "Create";
+    if (!SignInManager.IsSignedIn(User))
+    {
+        Response.Redirect("/");
+    }
+}
+
+<h1>Create</h1>
+
+<h4>Finition</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Finition.Nom" class="control-label"></label>
+                <input asp-for="Finition.Nom" class="form-control" />
+                <span asp-validation-for="Finition.Nom" class="text-danger"></span>
+            </div>
+            <div class="form-group mt-2">
+                <input type="submit" value="Créer" class="btn btn-primary" />
+                <a class="btn btn-success" asp-page="Index">Retour à la liste</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

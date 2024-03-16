@@ -1,0 +1,42 @@
+﻿@page
+@model EMG.Areas.Modeles.Pages.EditModel
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+@{
+    ViewData["Title"] = "Edit";
+    if (!SignInManager.IsSignedIn(User))
+    {
+        Response.Redirect("/");
+    }
+}
+
+<h1>Edit</h1>
+
+<h4>Modele</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Modele.Id" />
+            <div class="form-group">
+                <label asp-for="Modele.Nom" class="control-label"></label>
+                <input asp-for="Modele.Nom" class="form-control" />
+                <span asp-validation-for="Modele.Nom" class="text-danger"></span>
+            </div>
+            <div class="form-group mt-2">
+                <input type="submit" value="Créer" class="btn btn-primary" />
+                <a class="btn btn-success" asp-page="Index">Retour à la liste</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="./Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

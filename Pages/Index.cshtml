@@ -1,0 +1,76 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="container">
+
+
+    <!-- Carousel -->
+    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+        <div class="row mt-4">
+            <div class="col-md-12 text-center">
+                <h2>Bienvenue sur EMG automobile online</h2>
+                <p class="lead">Découvrez l'excellence automobile avec notre service de vente de voitures. Choisissez parmi une gamme variée, bénéficiez d'une transparence totale et profitez d'un service client exceptionnel. Simplifiez votre expérience d'achat et trouvez la voiture de vos rêves chez nous..</p>
+            </div>
+        </div>
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="~/assets/EMG.jpg" class="d-block w-100 h-50" alt="First slide">
+            </div>
+            <div class="carousel-item">
+                <img src="~/assets/auto.webp" class="d-block w-100 h-50" alt=" slide">
+            </div>
+            <!-- Add more carousel items as needed -->
+        </div>
+        <a class="carousel-control-prev text-black " href="#myCarousel" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon text-black" aria-hidden="true"></span>
+            <span class="sr-only text-black">Previous</span>
+        </a>
+        <a class="carousel-control-next text-black" href="#myCarousel" role="button" data-slide="next">
+            <span class="sr-only text-black">Next</span>
+            <span class="carousel-control-next-icon text-black" aria-hidden="true"></span>
+
+        </a>
+    </div>
+
+    <!-- Card section -->
+    <div class="row mt-4">
+        <div class="col-md-4">
+            <div class="card">
+                <img src="~/assets/efficacité-et-efficience.jpg" class="card-img-top" alt="Card image cap">
+                <div class="card-body">
+                    <h5 class="card-title">Effacacite</h5>
+                    <p class="card-text">Nous vous garantissons un service efficace,pour une experience unique
+
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card">
+                <img src="~/assets/rapidite.jpg" class="card-img-top" height="347" alt="Card image cap">
+                <div class="card-body">
+                    <h5 class="card-title">Rapidite</h5>
+                    <p class="card-text">la rapidite est une experience essentiel que nous garantissons a nos clients</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card">
+                <img src="~/assets/disponibilite.png" class="card-img-top" alt="Card image cap">
+                <div class="card-body">
+                    <h5 class="card-title">Disponibilite</h5>
+                    <p class="card-text">Nos services en ligne sont disponibles 24h/24,  appelez au +221334566765
+
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Bootstrap JS and jQuery -->
+<script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>

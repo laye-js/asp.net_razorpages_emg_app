@@ -1,0 +1,54 @@
+﻿@page
+@model EMG.Areas.Cars.pages.IndexModel
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Catalogue</h1>
+
+<div class="row">
+    @foreach (var item in Model.Car)
+    {
+        <div class="col-md-4 mb-4">
+            <div class="card">
+                @if (item.Image != null)
+                {
+                    <img src="@Url.Content(item.Image.Path)" class="card-img-top" alt="Car Image">
+                }
+                <div class="card-body">
+                    <h5 class="card-title">
+                        @if (item.Marque != null && item.Modele != null)
+                        {
+                            <span>@item.Marque.Nom</span>
+                            <span>@item.Modele.Nom</span>
+                            <span>@item.Finition.Nom</span>
+                        }
+                    </h5>
+                    <p class="card-text">VIN: @item.VIN</p>
+                    <p class="card-text">Annee: @item.Année</p>
+                    <p class="card-text">Prix: @item.PrixVente</p>
+                    <h5 class="card-text">Reparations:</h5>
+                    @if (item.Réparations != null)
+                    {
+                        @foreach (var rep in item.Réparations){
+                            <p class="card-text">Description: @rep.Description</p>
+                            <p class="card-text">Date: @rep.DateRéparation</p>
+
+                         }
+                    }
+                    @if (SignInManager.IsSignedIn(User))
+                    {
+                        <div class="text-center">
+                            <a asp-page="./Details" asp-route-id="@item.Id" class="btn btn-primary">Details</a>
+                            <a asp-page="./Edit" asp-route-id="@item.Id" class="btn btn-success">Modifier</a>
+                            <a asp-page="./Delete" asp-route-id="@item.Id" class="btn btn-danger">Supprimer</a>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    }
+</div>

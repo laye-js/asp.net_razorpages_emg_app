@@ -1,0 +1,425 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EMG.bundle.scp.css",
+      "PackagePath": "staticwebassets\\EMG.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\assets\\EMG.jpg",
+      "PackagePath": "staticwebassets\\assets\\EMG.jpg"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\assets\\auto.webp",
+      "PackagePath": "staticwebassets\\assets\\auto.webp"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\assets\\disponibilite.png",
+      "PackagePath": "staticwebassets\\assets\\disponibilite.png"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\assets\\efficacité-et-efficience.jpg",
+      "PackagePath": "staticwebassets\\assets\\efficacité-et-efficience.jpg"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\assets\\header.png",
+      "PackagePath": "staticwebassets\\assets\\header.png"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\assets\\rapidite.avif",
+      "PackagePath": "staticwebassets\\assets\\rapidite.avif"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\assets\\rapidite.jpg",
+      "PackagePath": "staticwebassets\\assets\\rapidite.jpg"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\cars\\images\\01037648-3fa9-4ab7-ad69-b92964e0e5a3.webp",
+      "PackagePath": "staticwebassets\\cars\\images\\01037648-3fa9-4ab7-ad69-b92964e0e5a3.webp"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\cars\\images\\15a193fb-69a6-4fb7-b683-b7bd19320bf0.jpg",
+      "PackagePath": "staticwebassets\\cars\\images\\15a193fb-69a6-4fb7-b683-b7bd19320bf0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\cars\\images\\2c3a589b-12b4-4cef-9f7c-9bea68fd6d4f.jpg",
+      "PackagePath": "staticwebassets\\cars\\images\\2c3a589b-12b4-4cef-9f7c-9bea68fd6d4f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\cars\\images\\36f257e7-1cee-4445-af39-fbc449162244.jpg",
+      "PackagePath": "staticwebassets\\cars\\images\\36f257e7-1cee-4445-af39-fbc449162244.jpg"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\cars\\images\\3e43d87d-519b-4768-8aa1-60de81a9f3b7.webp",
+      "PackagePath": "staticwebassets\\cars\\images\\3e43d87d-519b-4768-8aa1-60de81a9f3b7.webp"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\cars\\images\\40be07c0-195d-42f7-96ad-bcc66603e138.jpg",
+      "PackagePath": "staticwebassets\\cars\\images\\40be07c0-195d-42f7-96ad-bcc66603e138.jpg"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\cars\\images\\5433c0f7-ba21-43de-a6cc-5013637ba56f.jpg",
+      "PackagePath": "staticwebassets\\cars\\images\\5433c0f7-ba21-43de-a6cc-5013637ba56f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\cars\\images\\668c74c4-4996-4f1a-9bdb-2d09cee390d8.jpg",
+      "PackagePath": "staticwebassets\\cars\\images\\668c74c4-4996-4f1a-9bdb-2d09cee390d8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\cars\\images\\6b3034ce-13cc-4699-a3be-48507aafd64a.jpg",
+      "PackagePath": "staticwebassets\\cars\\images\\6b3034ce-13cc-4699-a3be-48507aafd64a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\cars\\images\\6ed8bf9f-2b63-4304-9720-0fdf8eaa8348.webp",
+      "PackagePath": "staticwebassets\\cars\\images\\6ed8bf9f-2b63-4304-9720-0fdf8eaa8348.webp"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\cars\\images\\7184add3-b87d-4b9c-9f17-c38ca5f190ae.webp",
+      "PackagePath": "staticwebassets\\cars\\images\\7184add3-b87d-4b9c-9f17-c38ca5f190ae.webp"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\cars\\images\\75044ba3-6f96-4359-8d3c-bfe81191f67c.jpg",
+      "PackagePath": "staticwebassets\\cars\\images\\75044ba3-6f96-4359-8d3c-bfe81191f67c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\cars\\images\\79472447-f0c7-4004-92f6-1cbae458e376.jpg",
+      "PackagePath": "staticwebassets\\cars\\images\\79472447-f0c7-4004-92f6-1cbae458e376.jpg"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\cars\\images\\812e7899-4f1e-4182-a22e-f0b2ad85ffe3.webp",
+      "PackagePath": "staticwebassets\\cars\\images\\812e7899-4f1e-4182-a22e-f0b2ad85ffe3.webp"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\cars\\images\\87539fd8-fd94-445d-8156-b13572e4e1b5.jpg",
+      "PackagePath": "staticwebassets\\cars\\images\\87539fd8-fd94-445d-8156-b13572e4e1b5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\cars\\images\\87a88f2f-145c-4d95-a99f-49b4690a5d54.jpg",
+      "PackagePath": "staticwebassets\\cars\\images\\87a88f2f-145c-4d95-a99f-49b4690a5d54.jpg"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\cars\\images\\a6e52b29-5e52-4a67-9710-b6e66c739afd.webp",
+      "PackagePath": "staticwebassets\\cars\\images\\a6e52b29-5e52-4a67-9710-b6e66c739afd.webp"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\cars\\images\\a98b1d2a-1f96-4dfd-acb4-e8e3d282c5fe.jpg",
+      "PackagePath": "staticwebassets\\cars\\images\\a98b1d2a-1f96-4dfd-acb4-e8e3d282c5fe.jpg"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\cars\\images\\afcff470-5325-4cf3-9f44-acf268877007.jpg",
+      "PackagePath": "staticwebassets\\cars\\images\\afcff470-5325-4cf3-9f44-acf268877007.jpg"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\cars\\images\\b04961f6-9621-489c-a911-b103232666f3.webp",
+      "PackagePath": "staticwebassets\\cars\\images\\b04961f6-9621-489c-a911-b103232666f3.webp"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\cars\\images\\b6ff7c97-d079-4bf2-aac7-fe0e39930985.jpg",
+      "PackagePath": "staticwebassets\\cars\\images\\b6ff7c97-d079-4bf2-aac7-fe0e39930985.jpg"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\cars\\images\\b836d38b-2028-4d41-912e-23d7d6c18012.jpg",
+      "PackagePath": "staticwebassets\\cars\\images\\b836d38b-2028-4d41-912e-23d7d6c18012.jpg"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\cars\\images\\b902be75-17b9-461f-ae18-296010ec5792.jpg",
+      "PackagePath": "staticwebassets\\cars\\images\\b902be75-17b9-461f-ae18-296010ec5792.jpg"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\cars\\images\\bc4798c3-9b4c-45f2-bf49-80ec9e0d8a85.jpg",
+      "PackagePath": "staticwebassets\\cars\\images\\bc4798c3-9b4c-45f2-bf49-80ec9e0d8a85.jpg"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\cars\\images\\bcac5b66-90d1-4308-a58e-15888a7e55b3.jpg",
+      "PackagePath": "staticwebassets\\cars\\images\\bcac5b66-90d1-4308-a58e-15888a7e55b3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\cars\\images\\c87c8e8d-a864-4d85-8760-2c5ae55797ae.webp",
+      "PackagePath": "staticwebassets\\cars\\images\\c87c8e8d-a864-4d85-8760-2c5ae55797ae.webp"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\cars\\images\\cd5cbef7-33b8-42d2-801a-810ab9a4863c.webp",
+      "PackagePath": "staticwebassets\\cars\\images\\cd5cbef7-33b8-42d2-801a-810ab9a4863c.webp"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\cars\\images\\d937580d-ae34-4c90-8d87-79213dcf6c34.jpg",
+      "PackagePath": "staticwebassets\\cars\\images\\d937580d-ae34-4c90-8d87-79213dcf6c34.jpg"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\cars\\images\\dd9f3138-cd33-44b9-bbf4-014941ffd762.webp",
+      "PackagePath": "staticwebassets\\cars\\images\\dd9f3138-cd33-44b9-bbf4-014941ffd762.webp"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\cars\\images\\e32a491a-6bb6-43d7-b6b1-352abfa561e9.webp",
+      "PackagePath": "staticwebassets\\cars\\images\\e32a491a-6bb6-43d7-b6b1-352abfa561e9.webp"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\cars\\images\\f0f48111-6d93-4eab-a2f2-a8859065ddad.jpg",
+      "PackagePath": "staticwebassets\\cars\\images\\f0f48111-6d93-4eab-a2f2-a8859065ddad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\cars\\images\\f3b849f2-1fb2-4b46-a685-d891329d19e6.jpg",
+      "PackagePath": "staticwebassets\\cars\\images\\f3b849f2-1fb2-4b46-a685-d891329d19e6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\cars\\images\\f874ef74-669d-42c6-abbf-16be44532f82.webp",
+      "PackagePath": "staticwebassets\\cars\\images\\f874ef74-669d-42c6-abbf-16be44532f82.webp"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JOJO\\source\\repos\\EMG\\EMG\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EMG.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.EMG.props",
+      "PackagePath": "build\\EMG.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.EMG.props",
+      "PackagePath": "buildMultiTargeting\\EMG.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.EMG.props",
+      "PackagePath": "buildTransitive\\EMG.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

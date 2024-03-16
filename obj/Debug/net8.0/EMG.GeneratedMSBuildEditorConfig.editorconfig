@@ -1,0 +1,239 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = EMG
+build_property.RootNamespace = EMG
+build_property.ProjectDir = c:\Users\JOJO\source\repos\EMG\EMG\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = c:\Users\JOJO\source\repos\EMG\EMG
+build_property._RazorSourceGeneratorDebug = 
+
+[c:/Users/JOJO/source/repos/EMG/EMG/Areas/Annonces/Pages/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQW5ub25jZXNcUGFnZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/JOJO/source/repos/EMG/EMG/Areas/Annonces/Pages/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQW5ub25jZXNcUGFnZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/JOJO/source/repos/EMG/EMG/Areas/Annonces/Pages/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQW5ub25jZXNcUGFnZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/JOJO/source/repos/EMG/EMG/Areas/Annonces/Pages/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQW5ub25jZXNcUGFnZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/JOJO/source/repos/EMG/EMG/Areas/Annonces/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQW5ub25jZXNcUGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/JOJO/source/repos/EMG/EMG/Areas/Annonces/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQW5ub25jZXNcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/JOJO/source/repos/EMG/EMG/Areas/Annonces/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQW5ub25jZXNcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/JOJO/source/repos/EMG/EMG/Areas/Cars/pages/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ2Fyc1xwYWdlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/JOJO/source/repos/EMG/EMG/Areas/Cars/pages/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ2Fyc1xwYWdlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/JOJO/source/repos/EMG/EMG/Areas/Cars/pages/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ2Fyc1xwYWdlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/JOJO/source/repos/EMG/EMG/Areas/Cars/pages/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ2Fyc1xwYWdlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/JOJO/source/repos/EMG/EMG/Areas/Cars/pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ2Fyc1xwYWdlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/JOJO/source/repos/EMG/EMG/Areas/Cars/pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ2Fyc1xwYWdlc1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/JOJO/source/repos/EMG/EMG/Areas/Cars/pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ2Fyc1xwYWdlc1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/JOJO/source/repos/EMG/EMG/Areas/Finitions/Pages/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRmluaXRpb25zXFBhZ2VzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/JOJO/source/repos/EMG/EMG/Areas/Finitions/Pages/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRmluaXRpb25zXFBhZ2VzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/JOJO/source/repos/EMG/EMG/Areas/Finitions/Pages/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRmluaXRpb25zXFBhZ2VzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/JOJO/source/repos/EMG/EMG/Areas/Finitions/Pages/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRmluaXRpb25zXFBhZ2VzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/JOJO/source/repos/EMG/EMG/Areas/Finitions/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRmluaXRpb25zXFBhZ2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/JOJO/source/repos/EMG/EMG/Areas/Finitions/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRmluaXRpb25zXFBhZ2VzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/JOJO/source/repos/EMG/EMG/Areas/Finitions/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRmluaXRpb25zXFBhZ2VzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/JOJO/source/repos/EMG/EMG/Areas/Identity/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/JOJO/source/repos/EMG/EMG/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/JOJO/source/repos/EMG/EMG/Areas/Marques/Pages/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFycXVlc1xQYWdlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/JOJO/source/repos/EMG/EMG/Areas/Marques/Pages/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFycXVlc1xQYWdlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/JOJO/source/repos/EMG/EMG/Areas/Marques/Pages/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFycXVlc1xQYWdlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/JOJO/source/repos/EMG/EMG/Areas/Marques/Pages/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFycXVlc1xQYWdlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/JOJO/source/repos/EMG/EMG/Areas/Marques/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFycXVlc1xQYWdlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/JOJO/source/repos/EMG/EMG/Areas/Marques/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFycXVlc1xQYWdlc1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/JOJO/source/repos/EMG/EMG/Areas/Marques/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFycXVlc1xQYWdlc1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/JOJO/source/repos/EMG/EMG/Areas/Modeles/Pages/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTW9kZWxlc1xQYWdlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/JOJO/source/repos/EMG/EMG/Areas/Modeles/Pages/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTW9kZWxlc1xQYWdlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/JOJO/source/repos/EMG/EMG/Areas/Modeles/Pages/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTW9kZWxlc1xQYWdlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/JOJO/source/repos/EMG/EMG/Areas/Modeles/Pages/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTW9kZWxlc1xQYWdlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/JOJO/source/repos/EMG/EMG/Areas/Modeles/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTW9kZWxlc1xQYWdlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/JOJO/source/repos/EMG/EMG/Areas/Modeles/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTW9kZWxlc1xQYWdlc1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/JOJO/source/repos/EMG/EMG/Areas/Modeles/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTW9kZWxlc1xQYWdlc1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/JOJO/source/repos/EMG/EMG/Areas/Repairs/Pages/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmVwYWlyc1xQYWdlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/JOJO/source/repos/EMG/EMG/Areas/Repairs/Pages/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmVwYWlyc1xQYWdlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/JOJO/source/repos/EMG/EMG/Areas/Repairs/Pages/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmVwYWlyc1xQYWdlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/JOJO/source/repos/EMG/EMG/Areas/Repairs/Pages/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmVwYWlyc1xQYWdlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/JOJO/source/repos/EMG/EMG/Areas/Repairs/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmVwYWlyc1xQYWdlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/JOJO/source/repos/EMG/EMG/Areas/Repairs/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmVwYWlyc1xQYWdlc1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/JOJO/source/repos/EMG/EMG/Areas/Repairs/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmVwYWlyc1xQYWdlc1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/JOJO/source/repos/EMG/EMG/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/JOJO/source/repos/EMG/EMG/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/JOJO/source/repos/EMG/EMG/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/JOJO/source/repos/EMG/EMG/Pages/Shared/EditorTemplates/Cars.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXEVkaXRvclRlbXBsYXRlc1xDYXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/JOJO/source/repos/EMG/EMG/Pages/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/JOJO/source/repos/EMG/EMG/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/JOJO/source/repos/EMG/EMG/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/JOJO/source/repos/EMG/EMG/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/JOJO/source/repos/EMG/EMG/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-4lkz1za416

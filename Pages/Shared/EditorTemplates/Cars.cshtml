@@ -1,0 +1,58 @@
+﻿@model EMG.Models.Car
+@{
+    ViewData.TemplateInfo.HtmlFieldPrefix = "Car";
+}
+
+<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+<div class="form-group">
+    <label asp-for="VIN" class="control-label"></label>
+    <input asp-for="VIN" class="form-control" />
+    <span asp-validation-for="VIN" class="text-danger"></span>
+</div>
+<div class="form-group">
+    <label asp-for="Année" class="control-label"></label>
+    <input asp-for="Année" class="form-control" />
+    <span asp-validation-for="Année" class="text-danger"></span>
+</div>
+<div class="form-group">
+    <label asp-for="Image.File" class="control-label"></label>
+    <input type="file" asp-for="Image.File" class="form-control" />
+    <span asp-validation-for="Image.File" class="text-danger"></span>
+</div>
+<div class="form-group">
+    <label asp-for="MarqueId" class="control-label"></label>
+    <select asp-for="MarqueId" class="form-control" asp-items="ViewBag.MarqueId"></select>
+</div>
+<div class="form-group">
+    <label asp-for="ModeleId" class="control-label"></label>
+    <select asp-for="ModeleId" class="form-control" asp-items="ViewBag.ModeleId"></select>
+</div>
+<div class="form-group">
+    <label asp-for="FinitionId" class="control-label"></label>
+    <select asp-for="FinitionId" class="form-control" asp-items="ViewBag.FinitionId"></select>
+</div>
+<div class="form-group">
+    <label asp-for="DateAchat" class="control-label"></label>
+    <input asp-for="DateAchat" class="form-control" />
+    <span asp-validation-for="DateAchat" class="text-danger"></span>
+</div>
+<div class="form-group">
+    <label asp-for="PrixAchat" class="control-label"></label>
+    <input asp-for="PrixAchat" class="form-control" />
+    <span asp-validation-for="PrixAchat" class="text-danger"></span>
+</div>
+<div class="form-group">
+    <label asp-for="DateDisponibilité" class="control-label"></label>
+    <input asp-for="DateDisponibilité" class="form-control" />
+    <span asp-validation-for="DateDisponibilité" class="text-danger"></span>
+</div>
+<div class="form-group">
+    <label asp-for="PrixVente" class="control-label"></label>
+    <input asp-for="PrixVente" class="form-control" />
+    <span asp-validation-for="PrixVente" class="text-danger"></span>
+</div>
+<div class="form-group">
+    <label asp-for="DateVente" class="control-label"></label>
+    <input asp-for="DateVente" class="form-control" />
+    <span asp-validation-for="DateVente" class="text-danger"></span>
+</div>
